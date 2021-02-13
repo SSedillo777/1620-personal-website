@@ -1,7 +1,17 @@
 h1 {
-    color: red;
+    color: #002642;
 }
 
 body {
-    background-color: greenyellow;
+    background-color: #e59500;
+    font-family: 'Ranchers', cursive;
+}
+
+ul {
+    list-style-type: none;
+    margin: 40px;
+    padding: 20px;
+    height: 35px;
+    background-color: #e5dada;
+    font-family: 'Ranchers', cursive;
 }
